@@ -22,11 +22,7 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false  
 
 function sayHiToGrandma (string) {
-  return
-}
-function logWhisper (sayHiToGrandma){
-  console.log ("I can't hear you!")
-}
+  return "I can't hear you!"
 
 function logShout (sayHiToGrandma){
   console.log("YES INDEED!")
